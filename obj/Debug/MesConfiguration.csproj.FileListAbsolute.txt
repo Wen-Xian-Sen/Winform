@@ -1,0 +1,69 @@
+E:\mesconfig\MesConfiguration\MesConfiguration\obj\Debug\MesConfiguration.csprojAssemblyReference.cache
+E:\mesconfig\MesConfiguration\MesConfiguration\obj\Debug\MesConfiguration.Mes_pc.resources
+E:\mesconfig\MesConfiguration\MesConfiguration\obj\Debug\MesConfiguration.Properties.Resources.resources
+E:\mesconfig\MesConfiguration\MesConfiguration\obj\Debug\MesConfiguration.csproj.GenerateResource.cache
+E:\mesconfig\MesConfiguration\MesConfiguration\obj\Debug\MesConfiguration.csproj.CoreCompileInputs.cache
+E:\mesconfig\MesConfiguration\MesConfiguration\bin\Debug\MesConfiguration.exe.config
+E:\mesconfig\MesConfiguration\MesConfiguration\bin\Debug\MesConfiguration.exe
+E:\mesconfig\MesConfiguration\MesConfiguration\bin\Debug\MesConfiguration.pdb
+E:\mesconfig\MesConfiguration\MesConfiguration\bin\Debug\Newtonsoft.Json.dll
+E:\mesconfig\MesConfiguration\MesConfiguration\bin\Debug\Newtonsoft.Json.xml
+E:\mesconfig\MesConfiguration\MesConfiguration\obj\Debug\MesConfiguration.csproj.CopyComplete
+E:\mesconfig\MesConfiguration\MesConfiguration\obj\Debug\MesConfiguration.exe
+E:\mesconfig\MesConfiguration\MesConfiguration\obj\Debug\MesConfiguration.pdb
+E:\信息化室\MES\MES\代码\配置软件\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe.config
+E:\信息化室\MES\MES\代码\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.exe
+E:\信息化室\MES\MES\代码\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.pdb
+E:\信息化室\MES\MES\代码\配置软件\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.dll
+E:\信息化室\MES\MES\代码\配置软件\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.xml
+E:\信息化室\MES\MES\代码\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csprojResolveAssemblyReference.cache
+E:\信息化室\MES\MES\代码\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Mes_pc.resources
+E:\信息化室\MES\MES\代码\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Properties.Resources.resources
+E:\信息化室\MES\MES\代码\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe.config
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.exe
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.pdb
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.pdb
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Mes_pc.resources
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Properties.Resources.resources
+C:\Users\Administrator\Desktop\配置软件\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csproj.GenerateResource.Cache
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe.config
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.exe
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.pdb
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.pdb
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Mes_pc.resources
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 副本 (2)\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csproj.GenerateResource.Cache
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe.config
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.exe
+C:\Users\Administrator\OneDrive\桌面\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.pdb
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe.config
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.exe
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.pdb
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.pdb
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Mes_pc.resources
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Properties.Resources.resources
+C:\Users\Administrator\Desktop\配置软件 - 新\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csproj.GenerateResource.Cache
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe.config
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.exe
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.pdb
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.exe
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\bin\Debug\MesConfiguration.pdb
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.dll
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\bin\Debug\Newtonsoft.Json.xml
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csprojResolveAssemblyReference.cache
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Mes_pc.resources
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.Properties.Resources.resources
+E:\myCode\配置软件-v1.0\MES-terminal-factory-config\MesConfiguration\obj\Debug\MesConfiguration.csproj.GenerateResource.Cache
